@@ -5,4 +5,5 @@ public class Student {
 	String num;
 	String sex;
 	String class;
+	int a;
 }
