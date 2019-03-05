@@ -7,4 +7,5 @@ public class Student {
 	String classs;
 	int a;
 	int b;
+	String numbernansd;
 }
