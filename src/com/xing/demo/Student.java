@@ -6,4 +6,5 @@ public class Student {
 	String sex;
 	String classs;
 	int a;
+	int b;
 }
